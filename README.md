@@ -1,14 +1,4 @@
-yes-Use multiple Scene classes (dictated by your game's style) (1)
-yes--Properly transition between Scenes and allow the player to restart w/out having to reload the page (1)
-yes-Include in-game instructions using text or other means (e.g., tooltips, tutorial, diagram, etc.) (1)
-yes-Have some form of player input/control appropriate to your game design (1)
-yes-Include one or more animated characters that use a texture atlas/sprite sheet* (1)
-yes-Simulate scrolling with a tileSprite (or equivalent means) (1)
-yes-Implement proper collision detection (via Arcade Physics or a custom routine) (1)
-yes-Have looping background music* (1)
-yes-Use a minimum of four sound effects for key mechanics, UI, and/or significant events appropriate to your game design (1)
-no-Use randomness to generate escalating challenge, e.g. terrain, pickups, etc. (1)
-yes-Include some metric of accomplishment that a player can improve over time, e.g., score, survival time, etc. (1)
-yes-Be theoretically endless (1)
-yes-Be playable for at least 15 seconds for a new player of low to moderate skill (1)
-yes-Run without significant crashes or errors (1)yes-Include in-game credits for all roles, assets, music, etc. (1)
+Name:Cody Karigaca
+Game Title: Soccer Trainging Run
+Hours: 22-24
+For my creative tilt I wanted to allow the user to jump and slide to dodge obstacles not just move around, however I started working on this before we fully covered state machines, hence why I used a plethera of if statements and booleans and I now realize how redudent that was. I also tried to go for a scocer theme, since I love the sport, but it was really hard to find good assets and I had to buy the player sprites however I do love the way it turned out and am very glad.
